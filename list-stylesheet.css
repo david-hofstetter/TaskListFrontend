@@ -1,0 +1,51 @@
+body{
+    background-image: url(./blueToPurple.png);
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    
+}
+#listDiv{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+#delete{
+    margin-left: 0%;
+    background-image: url(./editSymbol.webp);
+}
+#edit{
+background-image: url(./editSymbol.webp);
+margin-left: 70%;
+}
+#text{
+padding: 5%;
+margin: 0%;
+
+}
+#list{
+    margin-right: 0%;
+    background-image: ;
+    
+}
+#submit{
+    text-align: center;
+    margin-left: 0%;
+    height: 45px;
+    width: 50px;
+
+
+}
+#inputField{
+    text-align: center;
+    margin-left: 33%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    height: 45px;
+    width : 300px;
+}
+#title1{
+    text-align: center;
+}
+#subtitle1{
+    text-align: center;
+}
