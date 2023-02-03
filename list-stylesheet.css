@@ -1,37 +1,53 @@
 body{
-    background-image: url(./blueToPurple.png);
+    background-color: #2C2A4A;
     background-repeat:no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
+    color: whitesmoke;
     
 }
 #listDiv{
     margin-left: 20%;
     margin-right: 20%;
+    margin-top: 4%;
+    background-color: #4F518C;
+    border-radius: 18px
+
 }
 #delete{
     margin-left: 0%;
-    background-image: url(./editSymbol.webp);
+background-color: whitesmoke;
 }
 #edit{
-background-image: url(./editSymbol.webp);
+background-color: whitesmoke;
 margin-left: 70%;
 }
 #text{
 padding: 5%;
 margin: 0%;
-
+border-color: whitesmoke;
+border-width: 0.1px;
+border-style: solid;
+font-size: 20px;
 }
 #list{
     margin-right: 0%;
-    background-image: ;
+    background-color: #907AD6;
+    border-color:whitesmoke;
+border-width: 8px;
+border-style: solid;
+
+    
     
 }
 #submit{
     text-align: center;
     margin-left: 0%;
-    height: 45px;
+    height: 50px;
     width: 50px;
+    background-color: whitesmoke;
+    border-radius: 18px
+
 
 
 }
@@ -42,10 +58,16 @@ margin: 0%;
     margin-bottom: 3%;
     height: 45px;
     width : 300px;
+    border-radius: 18px
+
 }
 #title1{
     text-align: center;
 }
 #subtitle1{
     text-align: center;
+}
+h2{
+    margin-top: 5%;
+    font-size: 40px;
 }
